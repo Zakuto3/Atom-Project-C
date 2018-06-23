@@ -1,0 +1,12 @@
+For assemvbly code, do following in cmd:
+gcc -o name.s -S name.c
+
+1)rekursivt fall
+2)basfall,
+3)förändrings faktor i rekursiva fallet
+4)vilkor, när den stannar
+
+---------------------------------------
+EXAMINATION IDEA text
+: söka data, hitta node och skicka dein till addlast, då den relänkar allt
+till pewv
