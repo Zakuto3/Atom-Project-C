@@ -7,7 +7,7 @@ int main()
 {
     while (1)
     {
-        
+        char word[101];
         fgets(word, 101, stdin);
         int i,x,z=0;
         for(i=0;i<=strlen(word);i++)
