@@ -9,4 +9,5 @@ gcc -o name.s -S name.c
 ---------------------------------------
 EXAMINATION IDEA text
 : söka data, hitta node och skicka dein till addlast, då den relänkar allt
-till pewv
+till pew
+
